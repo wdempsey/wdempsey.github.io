@@ -2,10 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Walter</strong> Dempsey
-description: <a href="https://bit.ly/2YO8iCg">Assistant Professor of
-Biostatistics</a>. <a
-href="http://d3lab-isr.com/team/walter-dempsey/">Research Assistant
-Professor</a>. QMP and d3 lab member. Former SRL lab postdoctoral fellow.
+description: <a href="https://bit.ly/2YO8iCg">Assistant Professor of Biostatistics</a>. 
 
 profile:
   align: right
