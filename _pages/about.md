@@ -1,4 +1,4 @@
----
+* * * * *
 layout: about
 permalink: /
 title: <strong>Walter</strong> Dempsey
@@ -38,4 +38,3 @@ under the supervision of
 in Statistics at the
 [University of Chicago](http://galton.uchicago.edu) under the
 supervision of [Peter McCullagh](http://galton.uchicago.edu/~pmcc/).
-
