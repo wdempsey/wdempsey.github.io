@@ -2,9 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Walter</strong> Dempsey
-description: <a href="https://bit.ly/2YO8iCg">Assistant Professor of
-Biostatistics</a>. Research Assistant Professor in the d3lab at the
-Institue of Social Research.
+description: <a href="https://bit.ly/2YO8iCg">Assistant Professor of Biostatistics</a>. 
 
 profile:
   align: right
