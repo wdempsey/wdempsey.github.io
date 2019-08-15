@@ -2,22 +2,42 @@
 layout: about
 permalink: /
 title: <strong>Walter</strong> Dempsey
-description: <a href="https://bit.ly/2YO8iCg">Assistant Professor of Biostatistics</a>. 
+description: <a href="https://bit.ly/2YO8iCg">Assistant Professor of
+Biostatistics</a>. Research Assistant Professor in the d3lab at the
+Institue of Social Research.
 
 profile:
   align: right
   image: wd_prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>M4057 SPH II</p>
+    <p>1415 Washington Heights</p>
+    <p>Ann Arbor, MI 48109</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name's Walter.  My research focuses on `Statistical Methods for
+Digital and Mobile Health`.  My current work involves three
+complementary research themes: (1) experimental design and data
+analytic methods to inform multi-stage decision making in health; (2)
+statistical modeling of complex longitudinal and survival data; and
+(3) statistical modeling of complex relational structures such as
+interaction networks. In the coming years, he will continue to design
+and apply novel statistical methodologies to make sense of complex
+longitudinal, survival, and relational datasets. This work will inform
+decision making in health by aiding in intervention evaluation and
+development. Outside of my research, I enjoy exploring Ann Arbor
+with my fiancee by taking our beagle on long walks around town and
+attending UMS performances or shows at the Ark.  I'm also an avid
+soccer fan and play way too much rec league soccer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to joining, I was a postdoctoral fellow in the
+[Statistical Reinforcement Learning Lab](http://people.seas.harvard.edu/~samurphy/lab/overview.html)
+under the supervision of
+[Susan Murphy](people.seas.harvard.edu/~samurphy/). I received my PhD
+in Statistics at the
+[University of Chicago](http://galton.uchicago.edu) under the
+supervision of [Peter McCullagh](http://galton.uchicago.edu/~pmcc/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
