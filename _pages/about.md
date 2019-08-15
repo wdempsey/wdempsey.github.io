@@ -22,7 +22,7 @@ complementary research themes: (1) experimental design and data
 analytic methods to inform multi-stage decision making in health; (2)
 statistical modeling of complex longitudinal and survival data; and
 (3) statistical modeling of complex relational structures such as
-interaction networks. In the coming years, he will continue to design
+interaction networks. In the coming years, I will continue to design
 and apply novel statistical methodologies to make sense of complex
 longitudinal, survival, and relational datasets. This work will inform
 decision making in health by aiding in intervention evaluation and
