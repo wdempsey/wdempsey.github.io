@@ -31,7 +31,8 @@ with my fiancee by taking our beagle on long walks around town and
 attending UMS performances or shows at the Ark.  I'm also an avid
 soccer fan and play way too much rec league soccer.
 
-Prior to joining, I was a postdoctoral fellow in the
+Prior to joining, I was a postdoctoral fellow in the [Department of
+Statistics at Harvard University](https://statistics.fas.harvard.edu).  My fellowship was in the
 [Statistical Reinforcement Learning Lab](http://people.seas.harvard.edu/~samurphy/lab/overview.html)
 under the supervision of
 [Susan Murphy](people.seas.harvard.edu/~samurphy/). I received my PhD

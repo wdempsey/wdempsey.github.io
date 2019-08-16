@@ -3,6 +3,96 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{conformal,
+title = {Distribution-free link prediction via hierachical interaction exchangeable processes}
+authors = {Dempsey, Walter and Oselio, Brandon},
+year = {In progress}
+}
+
+@article{,
+title = {Recurrent event analysis in the presence of functional covariates via random subsampling},
+authors = {Dempsey, Walter},
+year = {In progress}
+}
+
+@article{Sense2Stop,
+title = {Hierarchical point processes and multi-scale measurements: data integration for latent recurrent event analysis under uncertainty},
+authors = {Dempsey, Walter and Spring, Bonnie and Murphy, Susan A.},
+year = {In progress}
+}
+
+@article{pilgrim,
+  title={The pilgrim process},
+  author={Dempsey, Walter and McCullagh, Peter},
+  abstract={Pilgrim's monopoly is a probabilistic process giving rise to a non-negative sequence that is infinitely exchangeable, a natural model for time-to-event data. The one-dimensional marginal distributions are exponential. The rules are simple, the process is easy to generate sequentially, and a simple expression is available for both the joint density and the multivariate survivor function. There is a close connection with the Kaplan-Meier estimator of the survival distribution. Embedded within the process is an infinitely exchangeable ordered partition processes connected to Markov branching processes in neutral evolutionary theory. Some aspects of the process, such as the distribution of the number of blocks, can be investigated analytically and confirmed by simulation. By ignoring the order, the embedded process can be considered as an infinitely exchangeable partition process, shown to be closely related to the Chinese restaurant process. Further connection to the Indian buffet process is also provided. Thus we establish a previously unknown link between the well-known Kaplan-Meier estimator and the important Ewens sampling formula.},
+  journal={In Submission at "Bayesian Analysis",},
+  volume={},
+  number={},
+  pages={},
+  year={2019+},
+  html={https://arxiv.org/abs/1412.1490},
+  pdf={https://arxiv.org/pdf/1412.1490.pdf},
+  publisher = {Bayesian Analysis,}
+}
+
+
+@article{vital,
+  title={Vital variables and survival processes},
+  author={Dempsey, Walter and McCullagh, Peter},
+  abstract={The focus of a survival study is partly on the distribution of survival times, and partly on the health or quality of life of patients while they live. Health varies over time, and survival is the most basic aspect of health, so the two aspects are closely intertwined. Depending on the nature of the study, a range of variables may be measured; some constant in time, others not; some regarded as responses, others as explanatory risk factors; some directly and personally health-related, others less directly so. This paper begins by classifying variables that may arise in such a setting, emphasizing in particular, the mathematical distinction between vital and non-vital variables. We examine also various types of probabilistic relationships that may exist among variables. Independent evolution is an asymmetric relation, which is intended to encapsulate the notion of one process driving the other; X is a driver of Y if X evolves independently of the history of Y. This concept arises in several places in the study of survival processes.},
+  journal={In Submission at "Statistics in Medicine",},
+  volume={},
+  number={},
+  pages={},
+  year={2019+},
+  html={https://arxiv.org/abs/1601.04841},
+  pdf={https://arxiv.org/pdf/1601.04841.pdf},
+  publisher = {Statistics in Medicine,}
+}
+
+@article{significance,
+  title={Randomised trials for the Fitbit generation},
+  author={Dempsey, Walter and Liao, Peng and Klasnja, Pedja and Nahum-Shani, Inbal and Murphy, Susan A.},
+  abstract={},
+  journal={Significance,},
+  volume={12},
+  number={6},
+  pages={20--23},
+  year={2015},
+  html={https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2015.00863.x},
+  pdf={https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4721268/pdf/nihms749133.pdf},
+  publisher = {Wiley,}
+}
+
+@article{Liao:2018:JBT:3301777.3287057,
+ author = {Liao, Peng and Dempsey, Walter and Sarker, Hillol and Hossain, Syed Monowar and al'Absi, Mustafa and Klasnja, Predrag and Murphy, Susan},
+ title = {Just-in-Time but Not Too Much: Determining Treatment Timing in Mobile Health},
+ journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+ volume = {2},
+ number = {4},
+ year = {2018},
+ pages = {179:1--179:21},
+ html = {http://doi.acm.org/10.1145/3287057},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ abstract = {There is a growing scientific interest in the use and development of just-in-time adaptive interventions in mobile health. These mobile interventions typically involve treatments, such as reminders, activity suggestions and motivational messages, delivered via notifications on a smartphone or a wearable to help users make healthy decisions in the moment. To be effective in influencing health, the combination of the right treatment and right delivery time is likely critical. A variety of prediction/detection algorithms have been developed with the goal of pinpointing the best delivery times. The best delivery times might be times of greatest risk and/or times at which the user might be most receptive to the treatment notifications. In addition, to avoid over burdening users, there is often a constraint on the number of treatments that should be provided per time interval (e.g., day or week). Yet there may be many more times at which the user is predicted or detected to be at risk and/or receptive. The goal then is to spread treatment uniformly across all of these times. In this paper, we introduce a method that spreads the treatment uniformly across the delivery times. This method can also be used to provide data for learning whether the treatments are effective at the delivery times. This work is motivated by our work on two mobile health studies, a smoking cessation study and a physical activity study.}
+} 
+
+
+@InProceedings{pmlr-v70-dempsey17a,
+  title = 	 {i{S}urvive: An Interpretable, Event-time Prediction Model for m{H}ealth},
+  author = 	 {Walter H. Dempsey and Alexander Moreno and Christy K. Scott and Michael L. Dennis and David H. Gustafson and Susan A. Murphy and James M. Rehg},
+  booktitle = 	 {Proceedings of the 34th International Conference on Machine Learning},
+  pages = 	 {970--979},
+  year = 	 {2017},
+  volume = 	 {70},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v70/dempsey17a/dempsey17a.pdf},
+  html = 	 {http://proceedings.mlr.press/v70/dempsey17a.html},
+  abstract = 	 {An important mobile health (mHealth) task is the use of multimodal data, such as sensor streams and self-report, to construct interpretable time-to-event predictions of, for example, lapse to alcohol or illicit drug use. Interpretability of the prediction model is important for acceptance and adoption by domain scientists, enabling model outputs and parameters to inform theory and guide intervention design. Temporal latent state models are therefore attractive, and so we adopt the continuous time hidden Markov model (CT-HMM) due to its ability to describe irregular arrival times of event data. Standard CT-HMMs, however, are not specialized for predicting the time to a future event, the key variable for mHealth interventions. Also, standard emission models lack a sufficiently rich structure to describe multimodal data and incorporate domain knowledge. We present iSurvive, an extension of classical survival analysis to a CT-HMM. We present a parameter learning method for GLM emissions and survival model fitting, and present promising results on both synthetic data and an mHealth drug use dataset.}
+}
+
+
 @article{lda,
   title={Survival models and health sequences},
   author={Dempsey, Walter and McCullagh, Peter},
