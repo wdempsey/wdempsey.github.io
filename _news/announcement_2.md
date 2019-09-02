@@ -1,31 +1,70 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Stratified MRT paper accepted at Annals of Applied Statistics
+date: 2019-09-02 12:00:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+My paper on
+[the stratified micro-randomized trial](https://arxiv.org/abs/1711.03587)
+was just accepted at the Annals of Applied Statistics.  This paper was
+written in collaboration with my postdoctoral mentor Susan Murphy.
+The paper covers a wide range of topics.  The work was motivated by a recent
+mobile health smoking cessation trial `Sense2Stop` which serves as a
+running example in the paper. In this study, participants are
+trained in stress reduction exercises prior to their smoking quit
+date. Apps that can be used to guide the participant through the exer-
+cises are installed on study-provided phone. These apps can be
+accessed at any time by a participant. However, a common problem is
+that at the very times at which practicing these exercises might be
+most useful, participants do not do so. The scientific team is most
+interested in understanding whether reminders to practice
+stress-reduction exercises will be useful in reducing/preventing
+future stress if the reminders are delivered at times the participant
+is classified as stressed.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+`Micro‐randomized trials` (MRTs) are trials in which participants are
+randomly assigned a treatment from the set of possible treatment
+actions at several times throughout the day. Thus each participant may
+be randomised hundreds or thousands of times over the course of a
+study. This is very different than a traditional randomised trial, in
+which participants are randomised once to one of a handful of
+treatment groups. `Stratified MRTs` are micro-randomized trials in
+which an individual is randomized among treatments at times determined
+by predictions constructed from outcomes to prior treatment and with
+randomization probabilities depending on these outcomes.
+Stratification is required to ensure sufficient treatment and
+non-treatment occasions across risk strata.
+In Sense2Stop, randomizations to treatment should occur at times of
+stress and second the outcome of interest accrues over a period that
+may include subsequent treatment. 
 
-#### Hipster list
+#### Topics covered
+The paper covers a wide range of topics:
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Experimental design</li>
+    <li>Causal inference</li>
+    <li>Simulation design for power calculations </li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The causal calculus highlights the difficulty in expressing the
+primary scientific hypothesis in terms of a causal effect.
+The design accounts for the fact that online monitoring of the
+stratification variable was required.
+The primary analysis method is based on a weighted-centered approach
+that is quite general.
+The power calculations require a simulation-based approach that
+leverages prior data in the simulation design.
 
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+The scientific question motivating the paper was:
+> Is there an effect of the reminder treatment on near-term, proximal stress if the individual is currently experiencing stress? Does the effect of the reminder treatments vary with time in study?
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Of course, the methods and design are general and should be useful to
+applied health scientists interested in scientific questions regarding
+nested causal effects of time-varying treatments.
+I hope you enjoy the paper; if you have any comments or questions,
+please feel to reach out to me via e-mail.
