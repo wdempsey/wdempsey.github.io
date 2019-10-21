@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Hi, my name's Walter.  My research focuses on `Statistical Methods for
+Hi, my name's Walter.  I am an Assistant Professor of [Biostatistics](https://sph.umich.edu/biostat/) and an Assistant Research Professor in the [d3lab](http://d3lab-isr.com/) located in the [Institute of Social Research](https://isr.umich.edu/). My research focuses on `Statistical Methods for
 Digital and Mobile Health`.  My current work involves three
 complementary research themes: (1) experimental design and data
 analytic methods to inform multi-stage decision making in health; (2)
