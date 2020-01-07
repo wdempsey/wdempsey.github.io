@@ -12,10 +12,10 @@ The paper covers a wide range of topics:
 <ul>
     <li>Exchangeability</li>
     <li>Stochastic processes</li>
-    <li>Markov Chaing Monte Carlo</li>
+    <li>Uniformization-based MCMC</li>
 </ul>
 
-We provide a representation theorem for all exchangeable, Markov multi-state survival processes and highligh a particular family of probability distributions that are suitable for applied work.  Inference requires extending uniformization-based MCMC methods to handle the dependency structure among units.
+We provide a representation theorem for all exchangeable, Markov multi-state survival processes and highlight a particular family of probability distributions that are suitable for applied work.  Inference requires extending uniformization-based MCMC methods to handle the dependency structure among units.
 
 ***
 Of course, the theory and methods are general and should be useful to applied health scientists interested in multi-state survival data. I hope you enjoy the paper; if you have any comments or questions, please feel to reach out to me via e-mail.
